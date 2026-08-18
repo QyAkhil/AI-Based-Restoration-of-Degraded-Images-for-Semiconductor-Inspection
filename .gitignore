@@ -1,6 +1,6 @@
 .venv/
 data/
-outputs/
+# outputs/
 __pycache__/
 *.pyc
 *.pyo
